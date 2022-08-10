@@ -1,5 +1,5 @@
-baseURL: https://mehdy.me/
-title: Mehdi Khoshnoodi
+baseURL: https://erfaniaa.github.io/
+title: Erfan Alimohammadi
 
 defaultContentLanguageInSubdir: true
 defaultContentLanguage: en
@@ -14,7 +14,7 @@ googleAnalytics: G-BK5V8GNT5V
 
 enableRobotsTXT: true
 
-disqusShortname: mehdy
+disqusShortname: erfaniaa
 
 minify:
   disableXML: true
