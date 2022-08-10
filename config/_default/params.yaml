@@ -1,7 +1,7 @@
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
-title: Mehdi Khoshnoodi
-description: Passionate about software engineering, startups and leadership.
-author: Mehdi Khoshnoodi
+title: Erfan Alimohammadi
+description: Software Engineer and Data Scientist
+author: Erfan Alimohammadi
 
 rssFullContent: true
 
@@ -15,17 +15,17 @@ defaultTheme: auto
 disableSpecial1stPost: true
 
 homeInfoParams:
-  Title: Mehdi Khoshnoodi
-  Content: Passionate about software engineering, startups and leadership.
+  Title: Erfan Alimohammadi
+  Content: Software Engineer and Data Scientist
 
 socialIcons:
   - name: twitter
-    url: https://twitter.com/mehdy314
+    url: https://twitter.com/erfanafre
   - name: stackoverflow
-    url: https://stackoverflow.com/users/3654352/mehdy
+    url: https://stackoverflow.com/users/2635857/erfan-alimohammadi
   - name: github
-    url: https://github.com/mehdy
+    url: https://github.com/erfaniaa
   - name: linkedin
-    url: https://www.linkedin.com/in/mehdy314
+    url: https://www.linkedin.com/in/erfan-alimohammadi
   - name: email
-    url: mailto:mehdy.khoshnoody+blog@gmail.com
+    url: mailto:erfan.aa@gmail.com

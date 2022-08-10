@@ -4,18 +4,14 @@ main:
     name: Home
     url: /
   - weight: 2
-    identifier: services
-    name: Services
-    url: /services/
-  - weight: 3
     identifier: about
     name: About Me
     url: /about-me/
-  - weight: 4
+  - weight: 3
     identifier: tags
     name: Tags
     url: /tags/
-  - weight: 5
+  - weight: 4
     identifier: archives
     name: Archives
     url: /archives/
